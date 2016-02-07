@@ -1,0 +1,22 @@
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\bin\Debug\Browser.xml
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.vbprojResolveAssemblyReference.cache
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.Resources.resources
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.vbproj.GenerateResource.Cache
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.xml
+C:\Users\bledi\Source\Repos\tictactoe\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\bin\Debug\Browser.exe.config
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.exe
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.xml
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.pdb
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\bin\Debug\Browser.exe
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\bin\Debug\Browser.pdb
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\bin\Debug\Browser.xml
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.vbprojResolveAssemblyReference.cache
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.Form1.resources
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.Resources.resources
+C:\Users\bledi\Desktop\Web Browser\Browser\Browser\obj\Debug\Browser.vbproj.GenerateResource.Cache
